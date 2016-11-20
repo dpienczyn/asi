@@ -1,4 +1,4 @@
-# Projekty, 2016/17
+ # Projekty, 2016/17
 
 Link do repozytorium z opisami projektów i linkami do nich należy wpisać
 w pliku [projects.md](projects.md) w jednym wierszu według schematu:
@@ -41,7 +41,7 @@ gem 'devise', :github => 'plataformatec/devise'
 1. Bańkowski, Jacek
 1. Ciepliński, Dominik
 1. Klimaszewski, Karol
-1. Pienczyn, Dominika
+1. Pienczyn, Dominika[Pienczyn, Dominika]
 
 
 ## Projekty zespołowe na egzamin
