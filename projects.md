@@ -41,7 +41,7 @@ gem 'devise', :github => 'plataformatec/devise'
 1. Bańkowski, Jacek
 1. Ciepliński, Dominik
 1. Klimaszewski, Karol
-1. Pienczyn, Dominika[Pienczyn, Dominika]
+1. [Pienczyn, Dominika](https://github.com/dpienczyn/appbooks) ->[appbooks](https://appbooks.herokuapp.com/)
 
 
 ## Projekty zespołowe na egzamin
